@@ -1,0 +1,11 @@
+[
+    {
+        "id": "ak47_gold",
+        "name": "AK-47 Dourada",
+        "need": [
+            {"type":"weapons", "id":"ak47", "amount":1},
+            {"type":"skins", "id":"gold", "amount":1}
+        ],
+        "result": {"type":"weapons", "id":"ak47_gold"}
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "id": "ak47",
+        "name": "AK-47",
+        "modelId": 355,
+        "price": 1000,
+        "attachments": ["scope", "silencer"],
+        "skins": ["gold"]
+    }
+]

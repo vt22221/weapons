@@ -1,0 +1,12 @@
+[
+    {
+        "id": "box1",
+        "name": "Caixa Simples",
+        "icon": "img/ui/lootbox.png",
+        "price": 300,
+        "rewards": [
+            {"type": "weapons", "id": "ak47"},
+            {"type": "skins", "id": "gold"}
+        ]
+    }
+]

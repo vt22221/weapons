@@ -1,0 +1,9 @@
+[
+    {
+        "id": "damage1",
+        "name": "Dano +10%",
+        "bonus": {"damage": 1.1},
+        "price": 350,
+        "weaponId": "ak47"
+    }
+]

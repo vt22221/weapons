@@ -1,0 +1,31 @@
+<meta>
+    <!-- Scripts server -->
+    <script src="server/database.lua" type="server"/>
+    <script src="server/main.lua" type="server"/>
+    <!-- Scripts client -->
+    <script src="client/main.lua" type="client"/>
+
+    <!-- Dados -->
+    <file src="data/weapons.json"/>
+    <file src="data/skins.json"/>
+    <file src="data/attachments.json"/>
+    <file src="data/upgrades.json"/>
+    <file src="data/lootboxes.json"/>
+    <file src="data/crafting.json"/>
+    <file src="data/achievements.json"/>
+
+    <!-- Modelos e texturas (adicione seus arquivos reais depois) -->
+    <file src="models/ak47.dff"/>
+    <file src="models/ak47.txd"/>
+    <file src="models/ak47_gold.txd"/>
+    <file src="models/ak47_scope.txd"/>
+    <file src="models/ak47_silencer.txd"/>
+    <!-- Adicione outros modelos/skins/attachments conforme expandir -->
+
+    <!-- Imagens de UI e ícones -->
+    <file src="img/weapons/ak47.png"/>
+    <file src="img/skins/gold.png"/>
+    <file src="img/attachments/scope.png"/>
+    <file src="img/attachments/silencer.png"/>
+    <file src="img/ui/lootbox.png"/>
+</meta>

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "scope",
+        "name": "Mira",
+        "price": 250,
+        "weaponId": "ak47",
+        "bonus": {"accuracy": 1.15}
+    },
+    {
+        "id": "silencer",
+        "name": "Silenciador",
+        "price": 250,
+        "weaponId": "ak47",
+        "bonus": {"noise": 0.5}
+    }
+]

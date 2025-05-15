@@ -1,0 +1,12 @@
+[
+    {
+        "id": "first_blood",
+        "name": "Primeiro Abate",
+        "desc": "Mate um inimigo pela primeira vez."
+    },
+    {
+        "id": "gold_collector",
+        "name": "Colecionador Dourado",
+        "desc": "Consiga a skin Gold."
+    }
+]
